@@ -35,4 +35,4 @@ body:
   - type: textarea
     attributes:
       label: Additional context.
-      description: "Add any other context or useful information about the documentation update here."
+      description: "Add all pertinent information, approprite links, attachments, stakeholder info, anything useful for the update."
