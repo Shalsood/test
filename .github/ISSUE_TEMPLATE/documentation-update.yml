@@ -11,7 +11,7 @@ body:
   - type: textarea
     attributes: 
      label: Link of the document
-     description: "Provide the link of the document for which the changes are proposed."
+     description: "Provide the link of the document for which the changes are proposed. You can also provide the Links to related dev issues and/or Design Docs "
   - type: textarea
     attributes:
      label: Specify the release and/or version of the document.
