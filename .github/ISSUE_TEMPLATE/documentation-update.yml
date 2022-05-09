@@ -7,15 +7,15 @@ labels: [documentation]
 body:
   - type: markdown
     attributes:
-      value: Thank you for taking the time to file a Documentation update report
+      value: Thank you for taking the time to file a Documentation update report.
   - type: textarea
     attributes: 
      label: Title of the document
      description: "Provide the title of the document for which the changes are proposed."
   - type: textarea
-     attributes:
-      label: Specify the release and/or version of the document
-      description: "Provide the release name and/or version, if possible."
+    attributes:
+     label: Specify the release and/or version of the document.
+     description: "Provide the release name and/or version, if possible."
   - type: textarea
     attributes:
       label: What is the current documentation state?
@@ -26,11 +26,11 @@ body:
       description: "Provide additional information about the location where you have copied the above statement from."
   - type: textarea
     attributes:
-      label: Why do you want to improve the statement?
-      description: "Please explain why the statement needs to be updated. This can be because it is confusing, incorrect, spelling/grammatical errors, etc."
+      label: Why do you want to suggest the changes?
+      description: "Please explain why the document needs to be updated. This can be because it is confusing, incorrect, spelling/grammatical errors, etc."
   - type: textarea
     attributes:
-      label: Proposed Statement
+      label: Proposed Changes
       description: "Please propose how you would rewrite the statement. If you have a precise proposal, please make the changes and open a pull request."
   - type: textarea
     attributes:
