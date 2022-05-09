@@ -10,8 +10,8 @@ body:
       value: Thank you for taking the time to file a Documentation update report.
   - type: textarea
     attributes: 
-     label: Title of the document
-     description: "Provide the title of the document for which the changes are proposed."
+     label: Link of the document
+     description: "Provide the link of the document for which the changes are proposed."
   - type: textarea
     attributes:
      label: Specify the release and/or version of the document.
