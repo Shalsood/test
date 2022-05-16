@@ -16,6 +16,10 @@ assignees: "Rene-Ch"
 * [ ] *Provide the title of the document for which the changes are proposed.*
 * [ ] *Include links or paths.*
 * [ ] *Specify the release and/or version of the document.*
+ ---
+ Provide your response here:
+ 
+ ---
 
 
 
@@ -24,6 +28,11 @@ assignees: "Rene-Ch"
 **Include the following details**
 * [ ] *Copy and paste the text currently in the documentation.* 
 * [ ] *Provide additional information about the location where you have copied the above statement from.*
+ 
+ ---
+ Provide your response here:
+ 
+ ---
 
 
 
@@ -32,8 +41,18 @@ assignees: "Rene-Ch"
 **Include the following details as necessary**
 * [ ] *Mention your proposed chmages.*
 * [ ] *Explain why the document needs to be updated. Is this a problem with a lack of documentation for an existing feature, or is it that the existing docs are not enough.*
+ 
+ ---
+ Provide your response here:
+ 
+ ---
   
 
 ### Other links and references
 
 * [ ] Add any other context or useful information about the documentation update here 
+ 
+ ---
+ Provide your response below:
+ 
+ ---
