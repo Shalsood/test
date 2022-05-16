@@ -1,9 +1,9 @@
 ---
-name: 📃 Documentation
-about: Suggest new documentation or updated to existing docs.
-title: "[DOC] <title>"
-labels: documentation
-assignees: "Rene-Ch"
+Name: 📃 Documentation
+About: Suggest new documentation or updated to existing docs.
+Title: "[DOC] <title>"
+Labels: documentation
+Assignees: "Rene-Ch"
 ---
  
 
@@ -17,7 +17,7 @@ assignees: "Rene-Ch"
 * [ ] *Include links or paths.*
 * [ ] *Specify the release and/or version of the document.*
  ---
- Provide your response here:
+ <!-- Provide your response below :-->
  
  ---
 
