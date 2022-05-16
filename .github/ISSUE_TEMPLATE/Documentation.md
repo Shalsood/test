@@ -3,35 +3,37 @@ name: 📃 Documentation
 about: Suggest new documentation or updated to existing docs.
 title: "[DOC] <title>"
 labels: documentation
-assignees: ""
+assignees: "Rene-Ch"
 ---
+ 
 
 <!-- IMPORTANT: Please make sure you have looked into the open and closed issues for similar issues before opening a new one -->
 
-### Problem to solve
+### Title and release/version of the document?
+  
+ <!-- Include the following details as necessary:
+* Is this a problem with a lack of documentation for an existing feature, or is it that the existing docs are not enough?-->
+* [ ] Provide the title of the document for which the changes are proposed. 
+* [ ] Include links or paths.
+* [ ] Specify the release and/or version of the document
+
+
+
+ ### What is the current documentation state and where it is stated?
+
+<!-- Include the following details as necessary:-->
+* Copy and paste the text currently in the documentation. 
+* Also, provide additional information about the location where you have copied the above statement from."
+
+
+
+### What are the proposed changes and why?
 
 <!-- Include the following details as necessary:
-* What product or feature(s) are affected?
-* What documentation section is affected? Include links or paths.
-* Is this a problem with a lack of documentation for an existing feature, or is it that the existing docs are not enough?
-
--->
-
-### Considered done when
-
-<!--
-Define the acceptance criteria for the documentation.
-This is important so the team can know when the feature is ready.
-
-Try to define them with the following structure
-
-"Following the documentation {specify documentation to be done}, I am able to {outcome}"
--->
-
-### Tasks and dependencies
-
-<!-- Please list the tasks and dependencies in form of other existing issues -->
+* Propose how you would rewrite the part of the documentation.
+* Explain why the document needs to be updated. This can be because it is confusing, incorrect, spelling/grammatical errors, etc.
+  -->
 
 ### Other links and references
 
-<!-- E.g. related documentation used during the feature definition -->
+<!-- Add any other context or useful information about the documentation update here -->
