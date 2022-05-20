@@ -1,5 +1,5 @@
 ---
-Name: 📃 Documentation
+Name: 📃Documentation
 About: Suggest new documentation or updated to existing docs.
 Title: "[DOC] <title>"
 Labels: documentation
