@@ -1,12 +1,7 @@
----
-Name: 📃Documentation
-About: Suggest new documentation or updated to existing docs.
-Title: "[DOC] <title>"
-Labels: documentation
-Assignees: "Rene-Ch"
----
- 
 
+|Name|About|Title|Labels|Assignees|
+|------|-----|-----|------|--------|
+ Documentation|Suggest new documentation or updated to existing docs|[DOC] <title>|documentation|Rene-Ch
 <!-- IMPORTANT: Please make sure you have looked into the open and closed issues for similar issues before opening a new one -->
 
 ### Title and release/version of the document?
