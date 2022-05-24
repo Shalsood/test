@@ -1,7 +1,12 @@
 
-|Name|About|Title|Labels|Assignees|
-|------|-----|-----|------|--------|
- Documentation|Suggest new documentation or updated to existing docs|[DOC] <title>|documentation|Rene-Ch
+---
+name: Documentation issue template
+about: Create a doc report for features, enhancements, & bug fixes
+title: Title
+labels: ''
+assignees: Rene-Ch
+
+---
 <!-- IMPORTANT: Please make sure you have looked into the open and closed issues for similar issues before opening a new one -->
 
 ### Title and release/version of the document?
