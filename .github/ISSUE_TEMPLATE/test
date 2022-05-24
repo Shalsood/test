@@ -1,0 +1,51 @@
+---
+name: Documentation issue template
+about: Create a doc report for features, enhancements, & bug fixes
+title: Title
+labels: ''
+assignees: Rene-Ch
+
+---
+
+Use this template to create a documentation issue. 
+
+**Note**: Your permissions or working view (GitHub issue or ZenHub) might determine which issue page fields you can access, but complete as many as you can. 
+
+Include:
+
+- [ ] Links to related dev issues and/or Design Docs (IEAM and OH); here is the IEAM design doc template: https://ibm.ent.box.com/notes/886318013520
+- [ ] Links to documentation content to show *where* updates are needed
+- [ ] Add a squad label from the Labels drop-down list
+- [ ] A *detailed* description of the requested update
+
+Complete the input fields (they differ in the Github issue view vs the ZenHub board view):
+
+* Title: Make it short, but meaningful. Do not include release numbers in titles (you can add that as a label).
+
+* Pipelines: Apply one of the following pipelines:
+
+ - New/Future for for unassigned issues (it has no release assignment yet)
+ - Backlog if the issue is ready to start work on
+ - In Progress for issues actively being worked on
+ - Review/QA for issues in technical review (if the issue is attached to a PR in reivew, it automatically moves to this pipeline)
+ - Icebox for issues that are not currently in any planned release or on hold
+
+* Assigness: The writer is filled in by default, but add yourself and others (if needed).
+  
+* Labels: Apply appropriate labels. **Note:** For issues that apply to multiple releases, use a label to identify the secondary (non-current) release.
+
+* Projects: NA
+
+* Milestone: What sprint is this work due for completion? 
+
+* Estimate: Optional
+
+* Epics: Select an appropriate Epic (the Epics menu is populated from the release Aha site)
+
+* Releases: Select the current Release. If an issue affects multiple releases, add the secondary release as a label.
+
+* Link pull requests: Apply a related PR if appropriate
+
+**Add comments in the new doc issue**
+
+Add all pertinent information, approprite links, attachments, stakeholder info, anything useful for the update.
