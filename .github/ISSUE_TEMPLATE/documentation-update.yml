@@ -35,3 +35,8 @@ body:
   - type: textarea
     attributes:
       label: Additional context.
+      description: "Add all pertinent information, approprite links, attachments, stakeholder info, anything useful for the update."
+  - type: textarea
+    attributes:
+      label: nondoc_dev
+      description: "Identifies documentation updates to be made by the Doc squad (content not owned by Dev)."    
